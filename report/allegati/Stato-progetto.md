@@ -6,6 +6,9 @@
 - Integrazione con strumenti esterni (es. Garmin)
 - Multilingua
 - Ottima visualizzazione anche su dispositivi mobile
+- Aggiunta di grafici per le performance
+- Tutorial degli esercizi inseriti nella scheda per il corretto svolgimento di essi
+- Prenotazione degli appuntamenti direttamente online
 
 ## Bisogni
 - Accesso alle tabelle di allenamento personalizzate
