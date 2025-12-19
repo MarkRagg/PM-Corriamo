@@ -4,7 +4,7 @@
 - Notifiche all'utente quando viene pubblicato un nuovo documento
 - Commenti o note degli specialisti ad eventuali documenti
 - Integrazione con strumenti esterni (es. Garmin)
-- Multilingua
+- Aggiunta di più lingue con priorità all'Inglese
 - Ottima visualizzazione anche su dispositivi mobile
 - Aggiunta di grafici per le performance
 - Tutorial degli esercizi inseriti nella scheda per il corretto svolgimento di essi
