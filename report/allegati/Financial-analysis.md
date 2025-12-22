@@ -46,9 +46,57 @@ Per un totale costi di **12.500€** di investimento iniziale e **13.000€** an
 
 Si può notare come l'investimento iniziale sia minimo rispetto al budget, mentre i costi annuali potrebbero fare la differenza nel costo totale di sviluppo. Siccome la maggior parte di essi riguardano i salari degli sviluppatori, con una buona organizzazione si ridurrebbero eventuali ritardi di sviluppo e di conseguenza eventuali costi aggiunti. 
 
+Il costo totale stimato del progetto varia tra 167.500 € (1 anno) e 336.000 € (2 anni), rientrando pienamente nel budget massimo previsto.
+
 Per quanto riguarda i costi annuali di mantenimento (13.000€/annuo), dovrebbero essere ampiamente coperti dal valore economico atteso.
 
 
 ## Risk analysis
+In seguito all'analisi dei costi, è necessario eseguire anche l'analisi dei rischi per capire come far fronte ad essi. I rischi sono stati gestiti secondo il modello Identification -> Assessment -> Mitigation.
+
+### Legenda classificazione
+
+- **Scope Triangle**
+  - Tempo
+  - Scopo/Qualità
+  - Risorse/Costo
+- **Impatto**
+  - Bassa
+  - Media
+  - Alta
+  - Critica
+- **Azioni**
+  - Accept: accettare il rischio
+  - Avoid: rimodellare i requisiti per evitare il rischio
+  - Mitigate: creare un piano per minimizzarne l'impatto negativo
+  - Contingency planning: stabilisce cosa deve essere fatto se l'evento si verifica
+  - Transfer: si utilizzano contromisure per trasferire l'impatto a terzi (assicurazioni, ricorso a terzi, ecc.)
+
+### Tabella dei rischi
+| Descrizione                 | Scope Triangle | Impatto | Azione |
+|----------------------|-------| --| ----------------------------------------------------------------|
+| Interfaccia grafica non intuitiva | Scopo/Qualità | Critico | Transfer*
+| Rallentamenti nello sviluppo | Tempo | Alta | Mitigate
+| Cambiamenti improvvisi di mercato | Scopo/Qualità | Alta | Accept
+| Difficile integrazione con strumenti esterni | Scopo/Qualità | Medio | Accept
+| Violazione o gestione non conforme dei dati sanitari degli utenti | Scopo/Qualità | Critica | Mitigate + Contingency planning
+| Familiarizzare con API e tool esterni (database in cloud) | Tempo | Bassa | Accept
+
+\* => Richiedere il rimborso al consulente UX/UI
 
 ## Ritorno economico atteso
+
+Il ritorno economico di questo progetto si basa sul medio-lungo termine. In questo caso il ritorno economico atteso si divide in due macro categorie: **diretto** e **indiretto**.
+
+Tra i ritorni economici diretti sono presenti:
+- Aumento del fatturato => +5%-10%
+- Aumento della fidelizzazione => -20% sugli abbandoni
+- Aumento della popolarità di Corriamo s.r.l. => +15% visite sui profili social 
+
+Per quanto riguarda i ritorni alcuni economici indiretti risulta più difficile utilizzare degli indicatori per quantificare il miglioramento, perciò verranno solo elencati:
+
+- Migliore qualità del servizio
+- Aumento del prestigio dell'azienda
+- Meno tempo speso in comunicazioni frammentate
+- Migliore coordinamento tra specialisti
+- Possibilità di espansione futura dell'applicativo
