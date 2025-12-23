@@ -13,12 +13,8 @@ Il meeting ha come obiettivo l'analisi del mercato, gli eventuali rischi e benef
 | **Marco Raggini** | Committente, Product Owner  | Definizione degli obiettivi di business e valutazione del valore del progetto
 | **Simone Zama** | Project Manager | Gestione del meeting, analisi dei rischi e redazione del POS
 
-## Analisi di mercato
-L'analisi di mercato si è focalizzata sul comprendere quali sono i principali competitor, i costi medi per la realizzazione di un'applicativo simile, il bacino di utenza e il target del fruitore di questo servizio.
-
-
 ## Allegati prodotti
 
 - [POS](POS.md)
- - [Market analysis](Market-analysis.md)    
- - [Financial analysis](Financial-analysis.md)
+  - [Market analysis](Market-analysis.md)    
+  - [Financial analysis](Financial-analysis.md)
