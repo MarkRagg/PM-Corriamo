@@ -1,4 +1,4 @@
-# 1-Scoping
+# Scoping
 
 Durante questa fase il team svolgerà una serie di meeting al fine di definire al meglio il progetto, analizzarne le opportunità, i rischi, le debolezze e le potenzialità.
 Ogni meeting avrà uno scopo preciso e in base ad esso i partecipanti saranno diversi. Il **Project Manager** Simone Zama e il **committente**, nonchè CEO dell'azienda, Marco Raggini saranno presenti ad ogni meeting, in quanto il primo soggetto si occupa di gestire la buona riuscita del progetto, mentre il secondo lo affiancherà sia per definire i requisiti e prendere decisioni, ma anche per verificare il corretto svolgimento delle varie fasi del progetto.  
