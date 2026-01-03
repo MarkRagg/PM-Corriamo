@@ -26,3 +26,4 @@ Il tempo totale stimato è **296 SP**, che corrispondono a 37 settimane (poco pi
 Di seguito è stato creato il diagramma attraverso l'uso di **Canva**, un potente strumento utilizzato per tanti scopi. La creazione del diagramma è stata fatta al fine di avere un quadro completo delle dipendenze tra attività, in modo da riuscire a comprendere quali potrebbero essere i rallentamenti e le criticità di ciascuna attività. 
 
 Diagrama: [PND](./PND.png)
+Per una migliore visualizzazione si consiglia di utilizzare il [link](https://www.canva.com/design/DAG9Wz9HIcs/8Ej-hYgYiQCEiY8LljDWrA/edit?utm_content=DAG9Wz9HIcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
