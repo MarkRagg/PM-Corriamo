@@ -17,7 +17,19 @@ Ogni sessione verrà svolta nell'apposita aula riunioni all'interno dell'azienda
 | **Luca Ferar** | Programmatore  |
 | **Alessio Bifulco** | Programmatore |
 
-## 1° Sessione
+## 1° Sessione (Kickoff + Work)
+
+La prima Joint Project Planning Session ha avuto lo scopo di avviare ufficialmente il progetto e definire le basi operative per la fase di pianificazione.
+
+Durante l’incontro sono stati condivisi gli obiettivi generali del progetto e le principali aspettative del committente. Successivamente, il team ha analizzato in modo collaborativo le attività necessarie alla realizzazione della piattaforma, individuando i macro-task e le dipendenze principali.
+Visto che il team IT e tutti i componenti di questa sessione avevano già partecipato alla fase di scoping, è stato svolto tutto in modo lineare e senza intoppi.
+
+Il focus della sessione è stato la definizione della **Work Breakdown Structure (WBS)**, utilizzata per scomporre il progetto in attività più piccole e gestibili, così da facilitare la pianificazione temporale, l’assegnazione delle responsabilità e la stima dei tempi di sviluppo.
+
+Al termine dell’incontro è stata prodotta la **WBS**, riportata in un documento separato, che costituirà la base per la definizione del Gantt che avverrà nelle prossime sessioni.
+
+### Allegati prodotti
+- [WBS](./allegati/planning/WBS.md)
 
 ## 2° Sessione
 

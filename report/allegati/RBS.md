@@ -3,8 +3,8 @@
 Dopo un'analisi dei requisiti funzionali e non funzionali è stato redatto l'RBS completo.
 
 #### 1. Configurazione
- - 1.1 Configurazione la repository
- - 1.2 Configurazione l'IDE e i tool necessari
+ - 1.1 Configurazione della repository
+ - 1.2 Configurazione dell'IDE e dei tool necessari
  - 1.3 Creazione pipeline per la _Continuous Integration & Deployment_
  - 1.4 Creazione pipeline per il versioning
 
@@ -19,7 +19,6 @@ Dopo un'analisi dei requisiti funzionali e non funzionali è stato redatto l'RBS
  - 3.2 Gestione profilo personale  
  - 3.3 Gestione ruoli (atleta, specialista, admin)  
  - 3.4 Autenticazione sicura  
- - 3.5 Gestione permessi di accesso  
 
 #### 4. Gestione del profilo dell'atleta
  - 4.1 Visualizzazione dati personali
@@ -32,7 +31,7 @@ Dopo un'analisi dei requisiti funzionali e non funzionali è stato redatto l'RBS
  - 5.1 Caricamento documenti  
  - 5.2 Modifica e aggiornamento  
  - 5.3 Archiviazione sicura  
- - 5.4 Organizzazione per tipologia
+ - 5.4 Organizzazione per categoria
  - 5.5 Rispetto della normativa GDPR  
 
 #### 6. Gestione del profilo dello specialista
@@ -41,7 +40,7 @@ Dopo un'analisi dei requisiti funzionali e non funzionali è stato redatto l'RBS
  - 6.3 Inserimento note e aggiornamenti  
  - 6.4 Comunicazione interna 
 
-#### 7. Requisiti tecnici
- - 7.1 Supporto a estensioni future  
- - 7.2 Backup e recovery  
- - 7.3 Integrazione con sistemi esterni  
+#### 7. Hardening e supporto tecnico
+ - 7.1 Backup e recovery  
+ - 7.2 Integrazione con sistemi esterni  
+ - 7.3 Supporto a estensioni future  
