@@ -31,6 +31,18 @@ Al termine dell’incontro è stata prodotta la **WBS**, riportata in un documen
 ### Allegati prodotti
 - [WBS](./allegati/planning/WBS.md)
 
-## 2° Sessione
+## 2° Sessione (Stima dei tempi e pianificazione)
+
+La seconda sessione è stata dedicata alla stima dei tempi di realizzazione delle attività individuate nella WBS.
+
+Durante l’incontro, il team di sviluppo ha analizzato ciascun task presente nella WBS, stimandone la durata e individuando le principali dipendenze tra le attività. Questo processo ha permesso di evidenziare il percorso logico di sviluppo del progetto e di identificare eventuali attività critiche.
+
+A seguito di questa analisi è stato redatto il **Project Network Diagram (PND)**, utilizzato per rappresentare graficamente le relazioni di precedenza tra le attività e supportare la definizione del percorso critico del progetto.
+
+Sulla base del PND è stato successivamente realizzato il **diagramma di Gantt**, che consente una visualizzazione più immediata e comprensibile della pianificazione temporale, rendendo il piano di progetto facilmente consultabile da tutti i membri del team.
+
+### Allegati prodotti
+- [PND](./allegati/planning/PND.md)
+- [Gantt](./allegati/planning/Gantt.md)
 
 ## 3° Sessione
