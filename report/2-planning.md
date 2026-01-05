@@ -46,3 +46,10 @@ Sulla base del PND è stato successivamente realizzato il **diagramma di Gantt**
 - [Gantt](./allegati/planning/Gantt.md)
 
 ## 3° Sessione
+
+La terza sessione è stata dedicata alla gestione dei rischi.
+
+Durante l'incontro si è parlato di come poter fronteggiare i potenziali rischi analizzati durante la fase di scoping. Al termine dell'incontro è stato prodotto un allegato che contiene una descrizione più accurata dei rischi e di come potrebbero essere risolti.
+
+### Allegati prodotti
+- [Risk Management](./allegati/planning/Risk-management.md)
