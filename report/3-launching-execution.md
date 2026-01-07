@@ -11,12 +11,18 @@ In particolare le fasi del meeting sono:
 - Presentazione del progetto da parte del project manager
 - Presentazione dei membri del team
 - Presentazione delle milestones e dell'approccio scelto (SCRUM).
+- Identificazione tools da utilizzare
 - Decisione delle regole operative
   - Problem solving
   - Decision making
   - Conflinct resolution
   - Team meeting
-- Identificazione dei Work packages
+
+### Tools
+
+- **GitHub**: Piattaforma utilizzata per la gestione della repository e delle pipeline di testing. Presenta anche delle feature per l'issue tracking e tool per il project maganement, come la gestione dei task, Kanban, team planning, bug tracker e roadmap.
+- **Canva**: Piattaforma largamente utilizzata per creare presentazioni. Al suo interno è possibile anche creare diagrammi e flowchart.
+- **Microsoft teams**: Software per creare meeting online, utile anche grazie al calendario integrato che permette una facile pianificazione della settimana.
 
 ## Matrice di responsabilità
 Come matrice di responsabilità è stata selezionata la matrice **RASCI**
@@ -78,6 +84,12 @@ A tal senso, sono state create delle "categorie" di meeting per facilitarne l'ut
 - **Support meeting**: Un meeting creato da un membro del team con un esperto del dominio. Lo scopo è quello di chiedere delle informazioni riguardanti le feature che poi utilizzerà lo stakeholder stesso, in modo da agevolarne la creazione. La durata massima è di 30 minuti.   
 
 ## Regole per il cambio di scope
+Ci potrebbero essere dei casi in cui gli stakeholder, non contenti del risultato, abbiano la necessità di attuare dei cambiamenti di scope. In tal caso, viene definita una procedura formale per valutare ed in caso attuare questo tipo di cambiamenti:
 
-## Work packages
+- **Proposta di cambiamento di scope**: Uno dei membri del team o il committente può proporre un cambiamento di scope, a seguito di nuove idee o problemi sorti durante lo sviluppo
 
+- **Analisi della richiesta**: Il team si riunisce per capire se la proposta possa essere una buona idea e ne deduce la fattibilità
+
+- **Analisi dell'impatto del cambiamento**: Se la proposta viene considerata idonea, si passa all'analisi dell'impatto che essa avrà nel progetto, sia in termini di tempo e costi, sia in termini di risultato finale e relativi benefici
+
+- **Riunione per la decisione finale**: Viene creato un incontro insieme al committente dove il Project Manager espone l'analisi che produce il cambiamento di scope e il committente, insieme al P.M., decide se approvare il cambiamento.
