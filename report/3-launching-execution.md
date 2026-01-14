@@ -1,3 +1,9 @@
+---
+layout: default
+title: Launching and execution
+nav_order: 4
+---
+
 # Launching and execution
 Ora che il progetto è stato definito ed è correttamente pianificato, il team è pronto per passare alla fare di launching and execution. In questa fase vengono concordati alcuni aspetti pratici che serviranno durante lo sviluppo.
 

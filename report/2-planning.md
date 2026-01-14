@@ -1,3 +1,9 @@
+---
+layout: default
+title: Planning
+nav_order: 3
+---
+
 # Planning
 
 In questa fase, il focus è sulla pianificazione del progetto, in particolare verranno definite le attività da svolgere durante lo sviluppo, i tempi di ognuna e l'ordine cronologico nelle quali verranno svolte. A supporto della pianificazione verranno prodotti vari documenti per ufficializzare ciò che verrà detto durante gli incontri. Per facilitare il corretto svolgimento di questa fase si è deciso di fare delle JPPS (Joint Project Planning Session), ognuna con il suo relativo scopo. 

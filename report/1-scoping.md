@@ -1,3 +1,9 @@
+---
+layout: default
+title: Scoping
+nav_order: 2
+---
+
 # Scoping
 
 Durante questa fase il team svolgerà una serie di meeting al fine di definire al meglio il progetto, analizzarne le opportunità, i rischi, le debolezze e le potenzialità.

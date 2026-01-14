@@ -1,3 +1,9 @@
+---
+layout: default
+title: Monitoring and controlling
+nav_order: 5
+---
+
 # Monitoring and controlling
 Durante questa fase, il progetto è già entrato nella fase di sviluppo. Vengono formalizzati i tools che verranno usati per monitorare e controllare il corretto sviluppo. Il monitoraggio è cruciale per poter agire tempestivamente in caso di criticità ed avere ogni attività registrata.
 

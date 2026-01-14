@@ -1,3 +1,9 @@
+---
+layout: default
+title: Closing
+nav_order: 6
+---
+
 # Closing
 Il software è ufficialmente finito il 31/08/2026. La fase di conclusione descrive la conclusione formale del progetto, con l'ottenimento della firma del committente sul report finale. 
 ## Procedura di accettazione
