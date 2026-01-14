@@ -1,4 +1,4 @@
-title: Project Management Report
+title: P.M. Report
 description: Web app per la gestione degli atleti
 remote_theme: just-the-docs/just-the-docs
 
@@ -8,19 +8,18 @@ plugins:
 color_scheme: light
 search_enabled: true
 
-just_the_docs:
-  navigation:
-    - title: Home
-      url: /index.md
-    - title: Contesto
-      url: /0-contesto.md 
-    - title: Scoping
-      url: /1-scoping.md
-    - title: Planning
-      url: /2-planning.md
-    - title: Launching & Execution
-      url: /3-launching-execution.md
-    - title: Monitoring & Controlling
-      url: /4-monitoring-controlling.md
-    - title: Closing
-      url: /5-closing.md
+exclude:
+  - allegati/1-meeting.md
+  - allegati/2-meeting.md
+  - allegati/3-meeting.md
+  - allegati/Condition-of-satisfaction.md
+  - allegati/Financial-analysis.md
+  - allegati/Market-analysis.md
+  - allegati/POS.md
+  - allegati/RBS.md
+  - allegati/Stato-progetto.md
+  - allegati/SWOT.md
+  - allegati/planning/Gantt.md
+  - allegati/planning/PND.md
+  - allegati/planning/WBS.md
+  - allegati/planning/Risk-management.md
