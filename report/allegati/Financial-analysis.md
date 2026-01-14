@@ -79,13 +79,13 @@ In seguito all'analisi dei costi, è necessario eseguire anche l'analisi dei ris
   - Transfer: si utilizzano contromisure per trasferire l'impatto a terzi (assicurazioni, ricorso a terzi, ecc.)
 
 ### Tabella dei rischi
-| Descrizione                                           | Scope Triangle | Impatto | Azione                                 |
-|-------------------------------------------------------|----------------|---------|----------------------------------------|
-| Interfaccia grafica non intuitiva                     | Scopo/Qualità  | Critico | Transfer*                               |
-| Rallentamenti nello sviluppo                          | Tempo          | Alta    | Mitigate                                |s
-| Cambiamenti improvvisi di mercato                     | Scopo/Qualità  | Alta    | Accept                                  |
-| Difficile integrazione con strumenti esterni          | Scopo/Qualità  | Medio   | Accept                                  |
-| Violazione o gestione non conforme dei dati sanitari | Scopo/Qualità  | Critico | Mitigate + Contingency planning         |
+| Descrizione                                           | Scope Triangle | Impatto | Azione                                
+|-------------------------------------------------------|----------------|---------|----------------------------------------
+| Interfaccia grafica non intuitiva                     | Scopo/Qualità  | Critico | Transfer*                               
+| Rallentamenti nello sviluppo                          | Tempo          | Alta    | Mitigate                                
+| Cambiamenti improvvisi di mercato                     | Scopo/Qualità  | Alta    | Accept                                  
+| Difficile integrazione con strumenti esterni          | Scopo/Qualità  | Medio   | Accept                                  
+| Violazione o gestione non conforme dei dati sanitari | Scopo/Qualità  | Critico | Mitigate + Contingency planning         
 | Familiarizzare con API e tool esterni (database in cloud) | Tempo      | Bassa   | Accept  
 
 \* => Richiedere il rimborso al consulente UX/UI
