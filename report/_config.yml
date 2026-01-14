@@ -2,6 +2,12 @@ title: Project Management Report
 description: Web app per la gestione degli atleti
 theme: just-the-docs
 
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: light
+search_enabled: true
+
 just_the_docs:
   navigation:
     - title: Home
