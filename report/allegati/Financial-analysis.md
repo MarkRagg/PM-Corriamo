@@ -80,8 +80,7 @@ In seguito all'analisi dei costi, è necessario eseguire anche l'analisi dei ris
 
 ### Tabella dei rischi
 | Descrizione                 | Scope Triangle | Impatto | Azione |
-----------------------|-------|-----|----------------------------------------------------------------|
-| Interfaccia grafica non intuitiva | Scopo/Qualità | Critico | Transfer*
+----------------------|-------|-----|----------------------------------------------------------------| Interfaccia grafica non intuitiva | Scopo/Qualità | Critico | Transfer*
 | Rallentamenti nello sviluppo | Tempo | Alta | Mitigate
 | Cambiamenti improvvisi di mercato | Scopo/Qualità | Alta | Accept
 | Difficile integrazione con strumenti esterni | Scopo/Qualità | Medio | Accept
