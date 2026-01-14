@@ -1,0 +1,20 @@
+title: Project Management Report
+description: Web app per la gestione degli atleti
+theme: just-the-docs
+
+just_the_docs:
+  navigation:
+    - title: Home
+      url: /index.md
+    - title: Contesto
+      url: /0-contesto.md 
+    - title: Scoping
+      url: /1-scoping.md
+    - title: Planning
+      url: /2-planning.md
+    - title: Launching & Execution
+      url: /3-launching-execution.md
+    - title: Monitoring & Controlling
+      url: /4-monitoring-controlling.md
+    - title: Closing
+      url: /5-closing.md
