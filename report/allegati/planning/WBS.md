@@ -1,3 +1,9 @@
+---
+layout: default
+title: WBS
+nav_exclude: true
+---
+
 # Work Breakdown Structure (WBS)
 
 La WBS prodotta sarà derivata partendo dal POS e dall'RBS, in quanto il team ha ritenuto che i documenti fossero già abbastanza specifici per poter produrre un ottimo WBS.

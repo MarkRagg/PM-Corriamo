@@ -1,3 +1,9 @@
+---
+layout: default
+title: Financial analysis
+nav_exclude: true
+---
+
 # Financial analysis
 
 In questa analisi si valuteranno i principali costi da sostenere, i rischi che potrebbero esserci e il potenziale ritorno economico. Tutte le valutazioni qui sotto riportate si riferiscono a delle stime.

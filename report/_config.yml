@@ -7,19 +7,3 @@ plugins:
 
 color_scheme: light
 search_enabled: true
-
-exclude:
-  - allegati/1-meeting.md
-  - allegati/2-meeting.md
-  - allegati/3-meeting.md
-  - allegati/Condition-of-satisfaction.md
-  - allegati/Financial-analysis.md
-  - allegati/Market-analysis.md
-  - allegati/POS.md
-  - allegati/RBS.md
-  - allegati/Stato-progetto.md
-  - allegati/SWOT.md
-  - allegati/planning/Gantt.md
-  - allegati/planning/PND.md
-  - allegati/planning/WBS.md
-  - allegati/planning/Risk-management.md

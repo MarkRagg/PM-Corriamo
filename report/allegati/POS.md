@@ -1,3 +1,9 @@
+---
+layout: default
+title: POS
+nav_exclude: true
+---
+
 # Project Overview Statement
 
 ## Problem/Opportunity

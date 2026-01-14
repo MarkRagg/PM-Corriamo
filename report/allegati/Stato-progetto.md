@@ -1,3 +1,9 @@
+---
+layout: default
+title: Stato progetto
+nav_exclude: true
+---
+
 # Desideri e Bisogni
 
 ## Desideri

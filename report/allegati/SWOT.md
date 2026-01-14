@@ -1,3 +1,9 @@
+---
+layout: default
+title: SWOT
+nav_exclude: true
+---
+
 # SWOT
 
 L’analisi SWOT è stata utilizzata per individuare i punti di forza, le debolezze, le opportunità e le minacce del progetto a livello tecnico, al fine di sviluppare un piano per la creazione di un progetto più efficace e robusto.

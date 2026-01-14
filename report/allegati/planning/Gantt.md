@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gantt
+nav_exclude: true
+---
+
 # Gantt
 Il diagramma di Gantt è stato realizzato a partire dal Project Network Diagram
 precedentemente definito durante la fase di pianificazione.

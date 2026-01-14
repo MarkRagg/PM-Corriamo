@@ -1,3 +1,9 @@
+---
+layout: default
+title: RBS
+nav_exclude: true
+---
+
 # Requirement Breakdown Structure (RBS)
 
 Dopo un'analisi dei requisiti funzionali e non funzionali è stato redatto l'RBS completo.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: First meeting
+nav_exclude: true
+---
+
 # 1-Meeting
 
 Il primo meeting è svolto in data 04/12. Ogni partecipante ha presentato i propri requisiti sotto la coordinazione di Simone Zama, che in qualità di **Project Manager** ha garantito il corretto svolgimento del meeting e il rispetto dell’agenda. In meeting non sono stati presenti i membri del team IT, in quanto questo incontro era focalizzato esclusivamente sulla raccolta dei bisogni e dei requisiti funzionali, senza entrare negli aspetti tecnici ed implementativi.

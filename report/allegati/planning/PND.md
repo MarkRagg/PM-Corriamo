@@ -1,3 +1,9 @@
+---
+layout: default
+title: PND
+nav_exclude: true
+---
+
 # PND
 La stima delle attività è stata effettuata utilizzando la tecnica del **Planning Poker**.
 Questa metodologia consente di stimare la complessità relativa delle attività

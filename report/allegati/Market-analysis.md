@@ -1,3 +1,9 @@
+---
+layout: default
+title: Market analysis
+nav_exclude: true
+---
+
 # Market analysis
 
 Nella prima fase di questa analisi, ci si focalizzerà sul bacino di utenza della corsa, della fascia d'età media, i possibili competitor locali e nazionali e i target users.

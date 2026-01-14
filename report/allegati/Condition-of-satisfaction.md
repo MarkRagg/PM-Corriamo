@@ -1,3 +1,9 @@
+---
+layout: default
+title: CoS
+nav_exclude: true
+---
+
 # Condition of Satisfaction
 - Durata massima di sviluppo: 2 anni
 - Budget massimo: 500.000€

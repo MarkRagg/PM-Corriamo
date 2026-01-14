@@ -1,3 +1,9 @@
+---
+layout: default
+title: Third meeting
+nav_exclude: true
+---
+
 # 3-Meeting
 
 Il terzo meeting è svolto in data 11/12. Questo incontro è stato dedicato alla discussione del progetto insieme agli sviluppatori, per decidere le modalità di svolgimento del progetto, i requisiti tecnici e un'analisi più tecnica della web app.

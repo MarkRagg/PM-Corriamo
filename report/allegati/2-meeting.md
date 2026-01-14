@@ -1,3 +1,9 @@
+---
+layout: default
+title: Second meeting
+nav_exclude: true
+---
+
 # 2-Meeting
 
 Il secondo meeting è svolto in data 09/12. In questo incontro sono state analizzate le opportunità che offre il progetto, lo stato attuale del mercato e si sono formalizzati gli obiettivi. Durante l'incontro sono stati presenti solamente il Product Owner e il Project Management, in quanto i requisiti sono stati raccolti nel meet precedente ed i requisiti tecnici e gli aspetti implementativi saranno discussi nel prossimo incontro.

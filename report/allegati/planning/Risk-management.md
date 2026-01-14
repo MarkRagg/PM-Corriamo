@@ -1,3 +1,9 @@
+---
+layout: default
+title: Risk Management
+nav_exclude: true
+---
+
 # Risk Management
 
 Alla luce dei rischi analizzati in precedenza, è stato deciso di analizzarli più nel dettaglio, descrivendo il tipo di problema, la probabilità che accada e come una possibile soluzione se presente.
