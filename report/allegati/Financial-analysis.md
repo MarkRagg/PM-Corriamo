@@ -79,6 +79,7 @@ In seguito all'analisi dei costi, è necessario eseguire anche l'analisi dei ris
   - Transfer: si utilizzano contromisure per trasferire l'impatto a terzi (assicurazioni, ricorso a terzi, ecc.)
 
 ### Tabella dei rischi
+
 | Descrizione                                           | Scope Triangle | Impatto | Azione                                
 |-------------------------------------------------------|----------------|---------|----------------------------------------
 | Interfaccia grafica non intuitiva                     | Scopo/Qualità  | Critico | Transfer*                               
