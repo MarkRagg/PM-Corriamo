@@ -41,7 +41,7 @@ nelle fasi di monitoring e controlling.
 **Legenda**: esempio di milestones con barra di progresso, tempo stimato e task risolti/aperti.
 
 ## Scope bank
-Al fine di avere una riserva di tempo per eventuali modifiche di scope o ritardi nello sviluppo è stata costituita una Scope bank. Il tempo inserito all'interno della scope bank è il 10% del tempo/uomo totale, questo perchè si stima che ci saranno alcuni cambiamenti di scope importanti durante lo sviluppo.
+Al fine di avere una riserva di tempo per eventuali modifiche di scope o ritardi nello sviluppo è stata creata una Scope bank. Il tempo inserito all'interno della scope bank è il 10% del tempo/uomo totale, questo perchè si stima che ci saranno alcuni cambiamenti di scope importanti durante lo sviluppo.
 
 Le regole per aggiungere o togliere tempo alla Scope bank sono:
 - Se un'attività viene completata prima del tempo richiesto, il tempo rimanente viene depositato.

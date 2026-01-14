@@ -29,7 +29,7 @@ La WBS prodotta sarà derivata partendo dal POS e dall'RBS, in quanto il team ha
 - 2.1 Insieme al consulente, creare i mockup per l'interfaccia grafica
   - 2.1.1 Cercare un consulente affidabile
   - 2.1.2 Creazione interfacce grafiche
-- 2.2 Creare dei tutorial per gli atleti 
+- 2.2 Creare dei tutorial per gli atleti
   - 2.2.1 Tramite i mockup, creare dei tutorial
   - 2.2.2 Attraverso i tutorial, verificare la semplicità dell'applicazione
   - 2.2.3 Effettuare dei test con dei target user
@@ -122,7 +122,7 @@ La WBS prodotta sarà derivata partendo dal POS e dall'RBS, in quanto il team ha
 #### 7. Hardening e supporto tecnico
 - 7.1 Backup e recovery
   - 7.1.1 Duplicazione Database per backup
-  - 7.1.2 Uso di Kubernetess per le server replicas
+  - 7.1.2 Uso di Kubernetes per le server replicas
 - 7.2 Integrazioni con sistemi esterni
 - 7.3 Supporto a estensioni future
   - 7.3.1 Rifattorizzazione finale del codice per estensioni future

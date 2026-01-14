@@ -14,7 +14,7 @@ temporali ottenute tramite la tecnica del Planning Poker, è stato possibile
 costruire il diagramma di Gantt, che rappresenta in modo chiaro e sintetico
 la pianificazione temporale del progetto. Attraverso il Gantt è stato possibile inoltre visualizzare i percorsi critici, che potrebbero portare a futuri rallentamenti.
 
-Per la creazione del Gantt è stato utilizzanto **Monday**, un sito per la pianificazione del lavoro e del workflow, presenta vari tool utili per la creazione del Gantt. Il sito infatti permette una buona visualizzazione del diagramma ed una creazione agevolata, con tutte le informazioni che potrebbero servire. Inotre, dato un diagramma, permette di individuare i percorsi critici (i task evidenziati come rossi).
+Per la creazione del Gantt è stato utilizzato **Monday**, un sito per la pianificazione del lavoro e del workflow, presenta vari tool utili per la creazione del Gantt. Il sito infatti permette una buona visualizzazione del diagramma ed una creazione agevolata, con tutte le informazioni che potrebbero servire. Inoltre, dato un diagramma, permette di individuare i percorsi critici (i task evidenziati come rossi).
 
 Essendo un pdf si consiglia la visualizzazione tramite apposito reader. 
 

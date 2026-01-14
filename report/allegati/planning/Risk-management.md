@@ -30,11 +30,11 @@ Nell'eventualità che ciò accada, l'azienda chiederà i danni al consulente, in
 
 I rallentamenti nello sviluppo rimangono un rischio sempre presente quando si parla di sviluppo software. In questo caso, il team IT è piccolo e svolge altre attività oltre alla realizzazione del software. 
 
-L'impatto è considerato alto poichè l'accumulo di ritardo non è quantificabile facilmente e potrebbe sforare la durata massima di 2 anni prevista durante la raccolta dei requisiti. Lo scopo di una gestione di un progetto, però, ha anche tra gli obbiettivi quello di minimizzare i ritardi e avere delle timeline corrette. Il team IT si è inoltre accordato su come impostare le priorità in fasi critichedove l'accumulo di ritardo è possibile o indotto da imprevisti che non riguardano il progetto (es. server non funzionanti), cercando di evitare il più possibile il context switch, che causa rallentamenti.
+L'impatto è considerato alto poichè l'accumulo di ritardo non è quantificabile facilmente e potrebbe sforare la durata massima di 2 anni prevista durante la raccolta dei requisiti. Lo scopo di una gestione di un progetto, però, ha anche tra gli obiettivi quello di minimizzare i ritardi e avere delle timeline corrette. Il team IT si è inoltre accordato su come impostare le priorità in fasi critiche dove l'accumulo di ritardo è possibile o indotto da imprevisti che non riguardano il progetto (es. server non funzionanti), cercando di evitare il più possibile il context switch, che causa rallentamenti.
 
 In fasi critiche è stata aperta la possibilità di incrementare il reparto informatico, reclutando programmatori per il progetto.
 
-## Cambiamenti impovvisi di mercato
+## Cambiamenti improvvisi di mercato
 
 - **Scope Triangle**: Scopo/Qualità
 - **Impatto**: Alta

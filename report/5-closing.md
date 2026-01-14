@@ -5,9 +5,9 @@ nav_order: 6
 ---
 
 # Closing
-Il software è ufficialmente finito il 31/08/2026. La fase di conclusione descrive la conclusione formale del progetto, con l'ottenimento della firma del committente sul report finale. 
+Il software è stato ufficialmente completato il 31/08/2026. La fase di conclusione descrive la conclusione formale del progetto, con l'ottenimento della firma del committente sul report finale. 
 ## Procedura di accettazione
-Prima di concludere il progetto viene effettuato un controllo per verificare che tutti gli obbiettivi ed i requisiti siano stati soddisfatti.
+Prima di concludere il progetto viene effettuato un controllo per verificare che tutti gli obiettivi e i requisiti siano stati soddisfatti.
 I seguenti documenti vengono controllati:
 
 - I bisogni raccolti in fase di scoping
@@ -48,7 +48,7 @@ Il team durante tutte le fasi del progetto si è impegnato ha produrre tutti i d
 
 ## Post-Implementation Audit
 Dopo aver formalizzato la conclusione del progetto viene svolta un'ultima riunione per valutare il processo di sviluppo. Nella riunione sono presenti i membri del team di sviluppo.
-Sono state poste le seguenti domande per capire se il progetto è stato gestito correttamente in tutte sue fasi.
+Sono state poste le seguenti domande per capire se il progetto è stato gestito correttamente in tutte le sue fasi.
 
 #### **Gli obiettivi del progetto sono stati raggiunti?**
 Si, il deliverable prodotto prevede tutte le funzionalità precedentemente citate.
@@ -72,6 +72,6 @@ Alcuni membri del team hanno approfondito lo studio e l'esperienza riguardo alla
 Il team ha seguito correttamente la metodologia, rispettando i Daily standup meeting ed i vari Sprint. 
 
 ## Chiusura
-Il progetto si chiude con successo con la firma formale del commitente. Il team di sviluppo è rimasto soddisfatto di come è stato gestito il progetto e del prodotto finale. 
+Il progetto si chiude con successo con la firma formale del committente. Il team di sviluppo è rimasto soddisfatto di come è stato gestito il progetto e del prodotto finale. 
 
 Il committente (essendo il CEO dell'azienda), ha premiato la velocità dello sviluppo con un premio di produzione di 5.000€ per ogni membro del team.

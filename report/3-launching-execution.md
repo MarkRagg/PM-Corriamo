@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 # Launching and execution
-Ora che il progetto è stato definito ed è correttamente pianificato, il team è pronto per passare alla fare di launching and execution. In questa fase vengono concordati alcuni aspetti pratici che serviranno durante lo sviluppo.
+Ora che il progetto è stato definito ed è correttamente pianificato, il team è pronto per passare alla fase di launching and execution. In questa fase vengono concordati alcuni aspetti pratici che serviranno durante lo sviluppo.
 
 ## Kick-off meeting
 Questa fase inizia con un breve kick-off meeting. Questo incontro è destinato principalmente alla presentazione dei vari aspetti del progetto e la decisione delle modalità operative da seguire durante lo sviluppo.
@@ -21,12 +21,12 @@ In particolare le fasi del meeting sono:
 - Decisione delle regole operative
   - Problem solving
   - Decision making
-  - Conflinct resolution
+  - Conflict resolution
   - Team meeting
 
 ### Tools
 
-- **GitHub**: Piattaforma utilizzata per la gestione della repository e delle pipeline di testing. Presenta anche delle feature per l'issue tracking e tool per il project maganement, come la gestione dei task, Kanban, team planning, bug tracker e roadmap.
+- **GitHub**: Piattaforma utilizzata per la gestione della repository e delle pipeline di testing. Presenta anche delle feature per l'issue tracking e tool per il project management, come la gestione dei task, Kanban, team planning, bug tracker e roadmap.
 - **Canva**: Piattaforma largamente utilizzata per creare presentazioni. Al suo interno è possibile anche creare diagrammi e flowchart.
 - **Microsoft teams**: Software per creare meeting online, utile anche grazie al calendario integrato che permette una facile pianificazione della settimana.
 
@@ -83,7 +83,7 @@ A tal senso, sono state create delle "categorie" di meeting per facilitarne l'ut
 
 - **Sprint review**: Sono incontri che si effettuano alla fine di uno sprint, possibilmente il venerdì pomeriggio (orario molto apprezzato da tutti i membri del team e dagli stakeholder, in quanto può essere un'attività leggera e diversa rispetto alla monotonia del lavoro). In questo meeting vengono presentati al committente i progressi fatti e si ascoltano eventuali modifiche. In alcuni e specifici meeting saranno anche presenti gli esperti del dominio per quanto riguarda feature che dovranno poi utilizzare loro.
 
-- **Sprint planning**: Sono incontri che si effettuano per dare inizio al prossimo sprint, definirne gli obbiettivi e deciderne la pianificazione. Questo tipo di meeting (insieme alla sprint review) viene eseguito ogni **due settimane**, solitamente il lunedì mattina, ed ha una durata massima di 2 ore.
+- **Sprint planning**: Sono incontri che si effettuano per dare inizio al prossimo sprint, definirne gli obiettivi e deciderne la pianificazione. Questo tipo di meeting (insieme alla sprint review) viene eseguito ogni **due settimane**, solitamente il lunedì mattina, ed ha una durata massima di 2 ore.
 
 - **Help meeting**: Sono creati al bisogno quando un membro del team non sa come risolvere un problema, la durata è variabile, ma per problemi di minore entità si sta un massimo di 1 ora.
 

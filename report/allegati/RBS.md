@@ -15,10 +15,10 @@ Dopo un'analisi dei requisiti funzionali e non funzionali è stato redatto l'RBS
  - 1.4 Creazione pipeline per il versioning
 
 #### 2. UI/UX
- - 2.1 Insieme al consulente, creare i mockup per l'interfaccia grafica
- - 2.2 Creare dei tutorial per gli atleti
- - 2.3 Creare dei tutorial per gli esperti 
- - 2.4 Usabilità dell'interfaccia 
+ - 2.1 Avere i mockup per l'interfaccia grafica
+ - 2.2 Sistema di tutorial per gli atleti
+ - 2.3 Sistema di tutorial per gli esperti
+ - 2.4 Usabilità dell'interfaccia
 
 #### 3. Gestione utenti e autenticazione
  - 3.1 Registrazione e login utenti  

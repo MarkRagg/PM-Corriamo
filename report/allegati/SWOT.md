@@ -18,7 +18,7 @@ L’analisi SWOT è stata utilizzata per individuare i punti di forza, le debole
 
 ## Weaknesses
 
-- Team IT di piccole dimensioni rispetto alla grandezzas del progetto
+- Team IT di piccole dimensioni rispetto alla grandezza del progetto
 - Necessità di formazione iniziale per l’utilizzo della piattaforma  
 - Costi iniziali di sviluppo e infrastruttura  
 
